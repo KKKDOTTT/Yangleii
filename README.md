@@ -53,8 +53,8 @@ public static int Chazhao(String orgstr,String findstr){
 
 实验结果
 -------
-![](https://github.com/Listen-lei/-/blob/master/1.PNG)</div>
+![](https://github.com/KKKDOTTT/Yangleii/blob/master/4.PNG)</div>
 
 感想
 ----
-还需多加练习。
+主要利用循环函数和调用，感觉比前两次实验简单些
